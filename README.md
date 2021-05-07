@@ -5,13 +5,7 @@
 ![[image-20210506104427925](https://t.me/aitorroma)](https://tva1.sinaimg.cn/large/008i3skNgy1gq8sv4q7cqj303k03kweo.jpg)
 
 
-
-<iframe allowfullscreen="" frameborder="0" loading="lazy" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" src="https://aitorroma.com/assets/player.html" style="outline: 0px; box-sizing: border-box; position: absolute; left: 0px; top: 0px; width: 331px; height: 100px; border-radius: 1px; pointer-events: auto; background-color: rgb(247, 246, 245);"></iframe>
-
-
-
-<iframe allowfullscreen="" frameborder="0" loading="lazy" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" src="https://aitorroma.com/assets/coffe.html" style="outline: 0px; box-sizing: border-box; position: absolute; left: 0px; top: 0px; width: 331px; height: 100px; border-radius: 1px; pointer-events: auto; background-color: rgb(247, 246, 245);"></iframe>)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J64AN17)
 
 
 
@@ -20,7 +14,7 @@
 
 
 
-**Bienvenidx** a mi espacio personal.  Estos son algunos de mis proyectos! ![👇](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+**Bienvenidx** a mi espacio personal.  Estos son algunos de mis proyectos! ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 
 
@@ -97,17 +91,15 @@ Estos son algunos de los grupos de telegram en los que colaboro y Administro.
 
 # Está es tú invitación
 
-Hola, Soy Aitor Roma y te invito a mi canal de telegram.
+**Hola, Soy Aitor Roma y te invito a mi canal de telegram.**
 
-<iframe allowfullscreen="" frameborder="0" loading="lazy" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" src="https://aitorroma.com/assets/button.html?v3" style="outline: 0px; box-sizing: border-box; position: absolute; left: 0px; top: 0px; width: 240px; height: 100px; border-radius: 1px; pointer-events: auto; background-color: rgb(247, 246, 245);"></iframe>
-
-
+# [¡Quiero Entrar!](https://t.me/aitorroma)
 
 
 
-En mi canal hablo sobre Growth Hacking, NoCode, Cloud Computing, Automatización, Software Libre y todo eso que me mueve. Recomiendo herramientas y también recursos que encuentro que pueden aportar valor.  Nos vemos dentro!
 
-![©](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==) 
+>En mi canal hablo sobre Growth Hacking, NoCode, Cloud Computing, Automatización, Software Libre y todo eso que me mueve. Recomiendo herramientas y también recursos que encuentro que pueden aportar valor.  Nos vemos dentro!
+
 
 
 
