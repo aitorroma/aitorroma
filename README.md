@@ -18,7 +18,6 @@
     <a href="https://hiveagile.com">
     <img src="https://komarev.com/ghpvc/?username=aitorroma&style=for-the-badge&color=orange" alt="Profile View Badge"/>
   </a>
-  <br>
   <a href="https://t.me/aitorroma">
     <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
