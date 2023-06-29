@@ -12,11 +12,8 @@
     <img src="https://komarev.com/ghpvc/?username=salman0ansari&style=for-the-badge&color=orange" alt="Profile View Badge"/>
   </a>
   <br>
-  <a href="https://t.me/salman0ansari">
+  <a href="https://t.me/aitorroma">
     <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-   <a href="https://join.skype.com/invite/rI5pLf9YIvTA">
-    <img src="https://img.shields.io/badge/Skype-00AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
   </a>
 </div>
 </div>
