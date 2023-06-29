@@ -16,7 +16,7 @@
   <br>
   <div id="badges">
     <a href="https://github.com/salman0ansari">
-    <img src="https://komarev.com/ghpvc/?username=salman0ansari&style=for-the-badge&color=orange" alt="Profile View Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=aitorroma&style=for-the-badge&color=orange" alt="Profile View Badge"/>
   </a>
   <br>
   <a href="https://t.me/aitorroma">
